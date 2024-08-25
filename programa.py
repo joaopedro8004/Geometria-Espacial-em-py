@@ -249,4 +249,3 @@ Qual é o seu objetivo?
                 Área Total: {area_total}
                 """)
 
-print("Se ocorrer algum erro, por favor, informe no Discord teko3732.")
